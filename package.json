@@ -1,0 +1,20 @@
+{
+  "name": "lp_c_sl",
+  "version": "0.0.1",
+  "description": "Find provinces, cities and regions in China",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "provinces",
+    "cities",
+    "districts"
+  ],
+  "author": "cbinbin",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
